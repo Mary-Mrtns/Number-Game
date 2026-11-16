@@ -73,7 +73,7 @@ Ou simplesmente dê dois cliques no arquivo `index.html`.
 
 ## 📚 O que eu pratiquei
 
-- Variáveis, funções e condicionais em JavaScript
+- Variáveis, funções, listas e condicionais em JavaScript
 - Geração de números aleatórios com `Math.random()`
 - Manipulação do DOM (`document.querySelector`, alterar textos e atributos)
 - Eventos de clique em botões
